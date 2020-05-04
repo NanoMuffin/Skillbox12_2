@@ -1,0 +1,6 @@
+framework module Pods_Skillbox12_2 {
+  umbrella header "Pods-Skillbox12_2-umbrella.h"
+
+  export *
+  module * { export * }
+}

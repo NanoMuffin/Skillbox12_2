@@ -1,0 +1,6 @@
+platform :ios, '13.3'
+use_frameworks!
+
+target 'Skillbox12_2' do
+  pod 'Alamofire', '~> 5.1''
+end
